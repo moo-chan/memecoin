@@ -1,7 +1,23 @@
 {
   "name": "Shohei Ohtani Coin",
   "symbol": "SHOHEI",
-  "decimals": 6,
   "description": "This is a crypto that supports our Shohei Ohtani💖",
-  "image": "https://raw.githubusercontent.com/moo-chan/memecoin/03813c14d470f8859dfcb28a580232b726d1801c/shohei.png"
+  "image": "https://raw.githubusercontent.com/moo-chan/memecoin/03813c14d470f8859dfcb28a580232b726d1801c/shohei.png",
+  "seller_fee_basis_points": 0,
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/moo-chan/memecoin/03813c14d470f8859dfcb28a580232b726d1801c/shohei.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "Bet9NyQi8ecuEcbvcew5beFa3nNU7WkKmDgcMbSf9Zt2",
+        "share": 100
+      }
+    ]
+  }
 }
